@@ -8,6 +8,10 @@ html{
 
 /* Navigation Bar Start */
 
+*{
+    text-transform: uppercase;
+}
+
 
 @media (min-width: 992px){
     .navbar-dark .navbar-brand {
